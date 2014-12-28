@@ -1,0 +1,68 @@
+p.text {
+ float:left;
+ width:60%;
+}
+
+div.img-wrap{
+ float:right;
+ width:40%;
+}
+
+img.responsive {
+ max-width: 100%;
+ height: auto;
+}
+
+footer {
+    text-align: center
+}
+
+ol.round {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+    ol.round li {
+        margin: 10px 0;
+        padding-left: 45px;
+    }
+
+        ol.round li.zero {
+            background: url("../img/orderedList0.png") no-repeat;
+        }
+
+        ol.round li.one {
+            background: url("../img/orderedList1.png") no-repeat;
+        }
+
+        ol.round li.two {
+            background: url("../img/orderedList2.png") no-repeat;
+        }
+
+        ol.round li.three {
+            background: url("../img/orderedList3.png") no-repeat;
+        }
+
+        ol.round li.four {
+            background: url("../img/orderedList4.png") no-repeat;
+        }
+
+        ol.round li.five {
+            background: url("../img/orderedList5.png") no-repeat;
+        }
+
+        ol.round li.six {
+            background: url("../img/orderedList6.png") no-repeat;
+        }
+
+        ol.round li.seven {
+            background: url("../img/orderedList7.png") no-repeat;
+        }
+
+        ol.round li.eight {
+            background: url("../img/orderedList8.png") no-repeat;
+        }
+
+        ol.round li.nine {
+            background: url("../img/orderedList9.png") no-repeat;
+        }
